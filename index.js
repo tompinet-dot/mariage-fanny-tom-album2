@@ -1,0 +1,1 @@
+// Le code React principal est long, je vais inclure le fichier complet depuis le document précédent (index.js)
